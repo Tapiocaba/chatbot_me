@@ -1,4 +1,4 @@
-# chatbot_me: fine-tuning an AI to talk like me!
+# chatbot_me: fine-tuning an AI model to talk like me!
 
 Hi hi! I had already created some documentation of my process so I can easily replicate it, so I decided to flush it out to talk more about the process I took! Ultra-inspired by [quinnai](https://www.quinnha.xyz/quinn-ai), so check em out :)
 
